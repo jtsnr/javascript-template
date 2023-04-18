@@ -8,8 +8,12 @@ A template for JavaScript projects
 ```bash
 npm audit
 ```
-* snyk https://snyk.io/
+* Alternatives: [snyk](https://snyk.io/)
 
 ## Development Web Server
 * express
 * Alternatives: node http-server, webpack dev server, browsersync
+
+## Sharing Work-in-progress
+* [localtunnel](https://github.com/localtunnel/localtunnel)
+* Alternatives: ngrok, vercel, surge
