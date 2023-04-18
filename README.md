@@ -17,3 +17,9 @@ npm audit
 ## Sharing Work-in-progress
 * [localtunnel](https://github.com/localtunnel/localtunnel)
 * Alternatives: ngrok, vercel, surge
+
+## Automation
+* npm scripts
+* Alternatives: grunt, gulp
+* npm-run-all - to run multiple things at the same time
+
