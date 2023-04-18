@@ -30,3 +30,6 @@ npm audit
 ## Bundling
 * webpack
 * Alternatives: browerify, rollup, parcel, snowpack
+
+## Linting
+* eslint, eslint-watch
