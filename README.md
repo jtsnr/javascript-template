@@ -23,6 +23,10 @@ npm audit
 * Alternatives: grunt, gulp
 * npm-run-all - to run multiple things at the same time
 
-# Transpilers
+## Transpilers
 * babel
 * Alternative: TypeScript
+
+## Bundling
+* webpack
+* Alternatives: browerify, rollup, parcel, snowpack
