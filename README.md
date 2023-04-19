@@ -1,5 +1,9 @@
 # javascript-template
-A template for JavaScript projects
+A template for JavaScript projects.
+
+Taken from Pluralsight course "Building a JavaScript Development Environment"
+
+https://github.com/coryhouse/javascript-development-environment
 
 ## Package Managers
 * npm
@@ -44,3 +48,8 @@ npm audit
 * Travis
 * GitHub Action (node.js.yml)
 * Alternatives: appveyor, jenkins, circleci, semaphore, snapci
+
+## HTTP Calls
+* Node: http, request
+* Browser: XMLHttpRequest, jQuery, Framework-based, Fetch
+* Node & browser: isomorphic-fetch, xhr, SuperAgent, Axios
