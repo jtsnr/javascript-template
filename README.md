@@ -33,3 +33,9 @@ npm audit
 
 ## Linting
 * eslint, eslint-watch
+
+## Unit Testing
+* mocha, chai
+* Frameworks: mocha, jasmine, tape, ava, jest
+* Assertion libraries: chai, should.js, expect
+* Helper libraries: jsdom, cheerio
