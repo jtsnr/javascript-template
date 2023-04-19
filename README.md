@@ -39,3 +39,8 @@ npm audit
 * Frameworks: mocha, jasmine, tape, ava, jest
 * Assertion libraries: chai, should.js, expect
 * Helper libraries: jsdom, cheerio
+
+## Continuous Integration
+* Travis
+* GitHub Action (node.js.yml)
+* Alternatives: appveyor, jenkins, circleci, semaphore, snapci
