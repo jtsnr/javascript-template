@@ -53,3 +53,9 @@ npm audit
 * Node: http, request
 * Browser: XMLHttpRequest, jQuery, Framework-based, Fetch
 * Node & browser: isomorphic-fetch, xhr, SuperAgent, Axios
+
+## Mock HTTP
+* Declare schema: JSON Schema Faker
+* Generate random data: faker.js, chance.js, randexp.js
+* Serve Data via API: JSON server
+* Alternatives: Nock, static JSON, api-mock
