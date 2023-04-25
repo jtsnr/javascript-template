@@ -59,3 +59,12 @@ npm audit
 * Generate random data: faker.js, chance.js, randexp.js
 * Serve Data via API: JSON server
 * Alternatives: Nock, static JSON, api-mock
+
+## Production Deploy
+* Recommendation to keep UI and API separate
+* Can utilise cheap UI hosting; CDN
+* Can use different tech for API
+
+## Cloud Hosting
+* AWS, Azure, Heroku, Firebase, GCP,
+* Static front ends: Netlify, GitHub Pages, Surge
